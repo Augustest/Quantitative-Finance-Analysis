@@ -1,4 +1,4 @@
-# Quantitative-Finance-Analysis
+# Quantitative Finance Analysis
 
 Explore advanced time series analysis, volatility estimation, risk assessment, and portfolio management using Python and various data science libraries. 
 
